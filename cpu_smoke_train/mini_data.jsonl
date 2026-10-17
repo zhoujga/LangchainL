@@ -1,0 +1,4 @@
+{"instruction": "问候", "input": "", "output": "你好，我是小助手。"}
+{"instruction": "总结", "input": "今天天气不错。", "output": "今天的天气不错。"}
+{"instruction": "翻译", "input": "hello", "output": "你好"}
+{"instruction": "分类", "input": "苹果", "output": "水果"}

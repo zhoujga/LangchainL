@@ -1,0 +1,48 @@
+model_name_or_path: /mnt/data/.cache/modelscope/models/Qwen/Qwen3-0.6B
+trust_remote_code: true
+template: qwen3
+stage: sft
+finetuning_type: lora
+dataset: qwen3_06b_0811_intent_key_train-v6
+dataset_dir: /mnt/workspace/LLaMA-Factory/data
+cutoff_len: 2048
+max_samples: 100000
+preprocessing_num_workers: 16
+packing: false
+
+lora_target: all
+lora_rank: 8
+lora_alpha: 16
+lora_dropout: 0
+
+do_train: true
+num_train_epochs: 5
+learning_rate: 5.0e-05
+lr_scheduler_type: cosine
+warmup_steps: 0
+max_grad_norm: 1.0
+optim: adamw_torch
+bf16: true
+flash_attn: auto
+enable_thinking: false
+per_device_train_batch_size: 2
+gradient_accumulation_steps: 8
+ddp_timeout: 180000000
+
+val_size: 0.05
+eval_strategy: steps
+eval_steps: 100
+per_device_eval_batch_size: 4
+load_best_model_at_end: true
+metric_for_best_model: eval_loss
+greater_is_better: false
+save_strategy: steps
+save_steps: 100
+save_total_limit: 5
+save_on_each_node: false
+
+logging_steps: 5
+include_num_input_tokens_seen: true
+report_to: none
+plot_loss: true
+output_dir: /mnt/workspace/LLaMA-Factory/saves/Qwen3-0.6B-Thinking/lora/train_2026-08-12-15-05-21
