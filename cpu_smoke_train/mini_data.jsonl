@@ -1,4 +1,242 @@
-{"instruction": "问候", "input": "", "output": "你好，我是小助手。"}
-{"instruction": "总结", "input": "今天天气不错。", "output": "今天的天气不错。"}
+{"instruction": "总结", "input": "客户对产品质量满意，但对配送速度不满。", "output": "客户满意产品质量，不满配送速度。"}
+{"instruction": "翻译", "input": "the weather is nice", "output": "天气不错"}
+{"instruction": "问候", "input": "", "output": "你好，很高兴见到你。"}
+{"instruction": "总结", "input": "客户对产品质量满意，但对配送速度不满。", "output": "客户满意产品质量，不满配送速度。"}
+{"instruction": "翻译", "input": "good night", "output": "晚安"}
+{"instruction": "分类", "input": "钢琴", "output": "乐器"}
+{"instruction": "判断", "input": "猫会飞", "output": "错误"}
+{"instruction": "翻译", "input": "i like tea", "output": "我喜欢喝茶"}
+{"instruction": "判断", "input": "猫会飞", "output": "错误"}
+{"instruction": "总结", "input": "团队完成了三个模块的开发，其中一个存在性能问题。", "output": "团队完成三个模块开发，其中一个有性能问题。"}
 {"instruction": "翻译", "input": "hello", "output": "你好"}
+{"instruction": "判断", "input": "太阳从东边升起", "output": "正确"}
+{"instruction": "问候", "input": "", "output": "你好，有什么可以帮你的吗？"}
+{"instruction": "总结", "input": "培训覆盖了所有部门，参与率超过九成。", "output": "培训覆盖全部部门，参与率超九成。"}
+{"instruction": "翻译", "input": "thank you", "output": "谢谢"}
+{"instruction": "翻译", "input": "good morning", "output": "早上好"}
+{"instruction": "问候", "input": "", "output": "你好，有什么可以帮你的吗？"}
+{"instruction": "翻译", "input": "how much is it", "output": "这个多少钱"}
+{"instruction": "分类", "input": "大象", "output": "动物"}
+{"instruction": "判断", "input": "冰是水凝固成的", "output": "正确"}
+{"instruction": "分类", "input": "胡萝卜", "output": "蔬菜"}
+{"instruction": "分类", "input": "香蕉", "output": "水果"}
+{"instruction": "总结", "input": "报告指出销量下降，主要原因是价格过高。", "output": "报告指出因价格过高导致销量下降。"}
+{"instruction": "翻译", "input": "where is the bus stop", "output": "公交站在哪里"}
+{"instruction": "翻译", "input": "the weather is nice", "output": "天气不错"}
+{"instruction": "判断", "input": "地球是圆的", "output": "正确"}
+{"instruction": "总结", "input": "团队完成了三个模块的开发，其中一个存在性能问题。", "output": "团队完成三个模块开发，其中一个有性能问题。"}
+{"instruction": "分类", "input": "老虎", "output": "动物"}
+{"instruction": "判断", "input": "地球是圆的", "output": "正确"}
+{"instruction": "翻译", "input": "i love coffee", "output": "我爱喝咖啡"}
+{"instruction": "判断", "input": "纸很硬", "output": "错误"}
+{"instruction": "总结", "input": "会议讨论了预算、进度和风险。", "output": "会议主要讨论预算、进度和风险。"}
+{"instruction": "总结", "input": "本次更新修复了崩溃问题并优化了启动速度。", "output": "更新修复崩溃并优化启动速度。"}
+{"instruction": "判断", "input": "火是冷的", "output": "错误"}
+{"instruction": "问候", "input": "客户", "output": "您好，请问有什么可以帮您？"}
+{"instruction": "分类", "input": "老虎", "output": "动物"}
+{"instruction": "翻译", "input": "i am a student", "output": "我是学生"}
+{"instruction": "问候", "input": "", "output": "你好，有什么可以帮你的吗？"}
+{"instruction": "判断", "input": "鱼会爬树", "output": "错误"}
+{"instruction": "翻译", "input": "this is a book", "output": "这是一本书"}
+{"instruction": "翻译", "input": "hello", "output": "你好"}
+{"instruction": "问候", "input": "同学", "output": "同学你好！"}
+{"instruction": "判断", "input": "糖是甜的", "output": "正确"}
+{"instruction": "问候", "input": "", "output": "你好，有什么可以帮你的吗？"}
+{"instruction": "总结", "input": "用户反馈主要集中在登录慢。", "output": "用户主要反馈登录速度慢。"}
+{"instruction": "判断", "input": "火是冷的", "output": "错误"}
+{"instruction": "翻译", "input": "thank you", "output": "谢谢"}
+{"instruction": "总结", "input": "系统升级后响应时间减少了 30%。", "output": "系统升级后响应时间减少 30%。"}
+{"instruction": "问候", "input": "老朋友", "output": "嗨，好久不见！"}
+{"instruction": "判断", "input": "石头能溶于水", "output": "错误"}
+{"instruction": "翻译", "input": "i like tea", "output": "我喜欢喝茶"}
+{"instruction": "总结", "input": "用户反馈主要集中在登录慢。", "output": "用户主要反馈登录速度慢。"}
+{"instruction": "问候", "input": "", "output": "你好，很高兴见到你。"}
+{"instruction": "翻译", "input": "i love coffee", "output": "我爱喝咖啡"}
+{"instruction": "总结", "input": "项目延期一周，原因是需求变更。", "output": "项目因需求变更延期一周。"}
+{"instruction": "问候", "input": "", "output": "你好，很高兴见到你。"}
+{"instruction": "问候", "input": "", "output": "你好，很高兴见到你。"}
+{"instruction": "总结", "input": "用户反馈主要集中在登录慢。", "output": "用户主要反馈登录速度慢。"}
+{"instruction": "翻译", "input": "this is a book", "output": "这是一本书"}
+{"instruction": "分类", "input": "白菜", "output": "蔬菜"}
+{"instruction": "翻译", "input": "where is the bus stop", "output": "公交站在哪里"}
+{"instruction": "分类", "input": "海豚", "output": "动物"}
+{"instruction": "翻译", "input": "how much is it", "output": "这个多少钱"}
+{"instruction": "分类", "input": "蛇", "output": "动物"}
+{"instruction": "问候", "input": "晚上", "output": "晚上好，今天过得怎么样？"}
+{"instruction": "分类", "input": "橙子", "output": "水果"}
+{"instruction": "判断", "input": "狗会游泳", "output": "正确"}
+{"instruction": "总结", "input": "会议讨论了预算、进度和风险。", "output": "会议主要讨论预算、进度和风险。"}
+{"instruction": "翻译", "input": "where is the bus stop", "output": "公交站在哪里"}
+{"instruction": "翻译", "input": "i am a student", "output": "我是学生"}
+{"instruction": "翻译", "input": "this is a book", "output": "这是一本书"}
+{"instruction": "总结", "input": "新方案成本更低，效果与旧方案相当。", "output": "新方案成本低且效果相当。"}
+{"instruction": "翻译", "input": "i am a student", "output": "我是学生"}
+{"instruction": "判断", "input": "鸟有羽毛", "output": "正确"}
+{"instruction": "总结", "input": "新方案成本更低，效果与旧方案相当。", "output": "新方案成本低且效果相当。"}
+{"instruction": "问候", "input": "", "output": "你好，有什么可以帮你的吗？"}
+{"instruction": "问候", "input": "", "output": "你好，很高兴见到你。"}
+{"instruction": "总结", "input": "系统升级后响应时间减少了 30%。", "output": "系统升级后响应时间减少 30%。"}
+{"instruction": "判断", "input": "冰是水凝固成的", "output": "正确"}
+{"instruction": "总结", "input": "团队完成了三个模块的开发，其中一个存在性能问题。", "output": "团队完成三个模块开发，其中一个有性能问题。"}
+{"instruction": "问候", "input": "", "output": "你好，有什么可以帮你的吗？"}
+{"instruction": "问候", "input": "初次见面", "output": "很高兴认识你。"}
+{"instruction": "判断", "input": "月有 30 天", "output": "错误"}
+{"instruction": "分类", "input": "鼓", "output": "乐器"}
+{"instruction": "分类", "input": "老鹰", "output": "动物"}
+{"instruction": "问候", "input": "", "output": "你好，有什么可以帮你的吗？"}
+{"instruction": "分类", "input": "郁金香", "output": "花卉"}
+{"instruction": "判断", "input": "鸟有羽毛", "output": "正确"}
+{"instruction": "总结", "input": "用户反馈主要集中在登录慢。", "output": "用户主要反馈登录速度慢。"}
+{"instruction": "问候", "input": "", "output": "你好，有什么可以帮你的吗？"}
+{"instruction": "判断", "input": "太阳从西边升起", "output": "错误"}
+{"instruction": "分类", "input": "番茄", "output": "蔬菜"}
+{"instruction": "翻译", "input": "how much is it", "output": "这个多少钱"}
 {"instruction": "分类", "input": "苹果", "output": "水果"}
+{"instruction": "翻译", "input": "see you later", "output": "再见"}
+{"instruction": "判断", "input": "猫是哺乳动物", "output": "正确"}
+{"instruction": "判断", "input": "地球绕着太阳转", "output": "正确"}
+{"instruction": "问候", "input": "", "output": "你好，有什么可以帮你的吗？"}
+{"instruction": "翻译", "input": "where is the bus stop", "output": "公交站在哪里"}
+{"instruction": "分类", "input": "海豚", "output": "动物"}
+{"instruction": "翻译", "input": "good morning", "output": "早上好"}
+{"instruction": "总结", "input": "培训覆盖了所有部门，参与率超过九成。", "output": "培训覆盖全部部门，参与率超九成。"}
+{"instruction": "分类", "input": "小提琴", "output": "乐器"}
+{"instruction": "分类", "input": "鼓", "output": "乐器"}
+{"instruction": "总结", "input": "报告指出销量下降，主要原因是价格过高。", "output": "报告指出因价格过高导致销量下降。"}
+{"instruction": "翻译", "input": "i am a student", "output": "我是学生"}
+{"instruction": "分类", "input": "小提琴", "output": "乐器"}
+{"instruction": "翻译", "input": "this is a book", "output": "这是一本书"}
+{"instruction": "分类", "input": "狗", "output": "动物"}
+{"instruction": "分类", "input": "西瓜", "output": "水果"}
+{"instruction": "问候", "input": "", "output": "你好，很高兴见到你。"}
+{"instruction": "翻译", "input": "i like tea", "output": "我喜欢喝茶"}
+{"instruction": "翻译", "input": "where is the bus stop", "output": "公交站在哪里"}
+{"instruction": "判断", "input": "地球绕着太阳转", "output": "正确"}
+{"instruction": "分类", "input": "土豆", "output": "蔬菜"}
+{"instruction": "分类", "input": "钢琴", "output": "乐器"}
+{"instruction": "翻译", "input": "good morning", "output": "早上好"}
+{"instruction": "总结", "input": "客户对产品质量满意，但对配送速度不满。", "output": "客户满意产品质量，不满配送速度。"}
+{"instruction": "判断", "input": "太阳从西边升起", "output": "错误"}
+{"instruction": "判断", "input": "铁会生锈", "output": "正确"}
+{"instruction": "总结", "input": "报告指出销量下降，主要原因是价格过高。", "output": "报告指出因价格过高导致销量下降。"}
+{"instruction": "总结", "input": "会议讨论了预算、进度和风险。", "output": "会议主要讨论预算、进度和风险。"}
+{"instruction": "翻译", "input": "the weather is nice", "output": "天气不错"}
+{"instruction": "判断", "input": "一年有 12 个月", "output": "正确"}
+{"instruction": "翻译", "input": "how much is it", "output": "这个多少钱"}
+{"instruction": "分类", "input": "老鹰", "output": "动物"}
+{"instruction": "翻译", "input": "i love coffee", "output": "我爱喝咖啡"}
+{"instruction": "翻译", "input": "see you later", "output": "再见"}
+{"instruction": "总结", "input": "本次更新修复了崩溃问题并优化了启动速度。", "output": "更新修复崩溃并优化启动速度。"}
+{"instruction": "判断", "input": "石头能溶于水", "output": "错误"}
+{"instruction": "分类", "input": "郁金香", "output": "花卉"}
+{"instruction": "问候", "input": "", "output": "你好，有什么可以帮你的吗？"}
+{"instruction": "分类", "input": "番茄", "output": "蔬菜"}
+{"instruction": "翻译", "input": "the weather is nice", "output": "天气不错"}
+{"instruction": "翻译", "input": "thank you", "output": "谢谢"}
+{"instruction": "分类", "input": "黄瓜", "output": "蔬菜"}
+{"instruction": "分类", "input": "葡萄", "output": "水果"}
+{"instruction": "总结", "input": "团队完成了三个模块的开发，其中一个存在性能问题。", "output": "团队完成三个模块开发，其中一个有性能问题。"}
+{"instruction": "问候", "input": "邻居", "output": "你好，邻居！"}
+{"instruction": "分类", "input": "土豆", "output": "蔬菜"}
+{"instruction": "翻译", "input": "hello", "output": "你好"}
+{"instruction": "总结", "input": "项目延期一周，原因是需求变更。", "output": "项目因需求变更延期一周。"}
+{"instruction": "判断", "input": "太阳从东边升起", "output": "正确"}
+{"instruction": "分类", "input": "蛇", "output": "动物"}
+{"instruction": "问候", "input": "医生", "output": "医生你好。"}
+{"instruction": "总结", "input": "本次更新修复了崩溃问题并优化了启动速度。", "output": "更新修复崩溃并优化启动速度。"}
+{"instruction": "判断", "input": "一周有 7 天", "output": "正确"}
+{"instruction": "翻译", "input": "see you later", "output": "再见"}
+{"instruction": "总结", "input": "系统升级后响应时间减少了 30%。", "output": "系统升级后响应时间减少 30%。"}
+{"instruction": "分类", "input": "大象", "output": "动物"}
+{"instruction": "翻译", "input": "see you later", "output": "再见"}
+{"instruction": "判断", "input": "水是液体", "output": "正确"}
+{"instruction": "判断", "input": "月有 30 天", "output": "错误"}
+{"instruction": "翻译", "input": "i am a student", "output": "我是学生"}
+{"instruction": "总结", "input": "本次更新修复了崩溃问题并优化了启动速度。", "output": "更新修复崩溃并优化启动速度。"}
+{"instruction": "问候", "input": "家人", "output": "嗨，回到家了吗？"}
+{"instruction": "总结", "input": "培训覆盖了所有部门，参与率超过九成。", "output": "培训覆盖全部部门，参与率超九成。"}
+{"instruction": "总结", "input": "本次更新修复了崩溃问题并优化了启动速度。", "output": "更新修复崩溃并优化启动速度。"}
+{"instruction": "翻译", "input": "hello", "output": "你好"}
+{"instruction": "翻译", "input": "see you later", "output": "再见"}
+{"instruction": "总结", "input": "会议讨论了预算、进度和风险。", "output": "会议主要讨论预算、进度和风险。"}
+{"instruction": "翻译", "input": "good night", "output": "晚安"}
+{"instruction": "分类", "input": "百合", "output": "花卉"}
+{"instruction": "翻译", "input": "good morning", "output": "早上好"}
+{"instruction": "分类", "input": "吉他", "output": "乐器"}
+{"instruction": "分类", "input": "兔子", "output": "动物"}
+{"instruction": "问候", "input": "", "output": "你好，有什么可以帮你的吗？"}
+{"instruction": "判断", "input": "铁会生锈", "output": "正确"}
+{"instruction": "分类", "input": "胡萝卜", "output": "蔬菜"}
+{"instruction": "总结", "input": "团队完成了三个模块的开发，其中一个存在性能问题。", "output": "团队完成三个模块开发，其中一个有性能问题。"}
+{"instruction": "总结", "input": "培训覆盖了所有部门，参与率超过九成。", "output": "培训覆盖全部部门，参与率超九成。"}
+{"instruction": "分类", "input": "猫", "output": "动物"}
+{"instruction": "分类", "input": "玫瑰", "output": "花卉"}
+{"instruction": "问候", "input": "", "output": "你好，很高兴见到你。"}
+{"instruction": "总结", "input": "系统升级后响应时间减少了 30%。", "output": "系统升级后响应时间减少 30%。"}
+{"instruction": "翻译", "input": "how much is it", "output": "这个多少钱"}
+{"instruction": "翻译", "input": "good morning", "output": "早上好"}
+{"instruction": "分类", "input": "黄瓜", "output": "蔬菜"}
+{"instruction": "分类", "input": "玫瑰", "output": "花卉"}
+{"instruction": "总结", "input": "客户对产品质量满意，但对配送速度不满。", "output": "客户满意产品质量，不满配送速度。"}
+{"instruction": "翻译", "input": "good night", "output": "晚安"}
+{"instruction": "问候", "input": "", "output": "你好，有什么可以帮你的吗？"}
+{"instruction": "翻译", "input": "i like tea", "output": "我喜欢喝茶"}
+{"instruction": "问候", "input": "", "output": "你好，有什么可以帮你的吗？"}
+{"instruction": "翻译", "input": "the weather is nice", "output": "天气不错"}
+{"instruction": "翻译", "input": "good night", "output": "晚安"}
+{"instruction": "问候", "input": "", "output": "你好，很高兴见到你。"}
+{"instruction": "总结", "input": "新方案成本更低，效果与旧方案相当。", "output": "新方案成本低且效果相当。"}
+{"instruction": "判断", "input": "水是红色的", "output": "错误"}
+{"instruction": "总结", "input": "培训覆盖了所有部门，参与率超过九成。", "output": "培训覆盖全部部门，参与率超九成。"}
+{"instruction": "翻译", "input": "thank you", "output": "谢谢"}
+{"instruction": "问候", "input": "", "output": "你好，有什么可以帮你的吗？"}
+{"instruction": "翻译", "input": "this is a book", "output": "这是一本书"}
+{"instruction": "判断", "input": "水是液体", "output": "正确"}
+{"instruction": "判断", "input": "鱼会爬树", "output": "错误"}
+{"instruction": "总结", "input": "报告指出销量下降，主要原因是价格过高。", "output": "报告指出因价格过高导致销量下降。"}
+{"instruction": "分类", "input": "猫", "output": "动物"}
+{"instruction": "判断", "input": "纸很硬", "output": "错误"}
+{"instruction": "问候", "input": "", "output": "你好，有什么可以帮你的吗？"}
+{"instruction": "判断", "input": "狗会游泳", "output": "正确"}
+{"instruction": "总结", "input": "新方案成本更低，效果与旧方案相当。", "output": "新方案成本低且效果相当。"}
+{"instruction": "判断", "input": "猫是哺乳动物", "output": "正确"}
+{"instruction": "分类", "input": "橙子", "output": "水果"}
+{"instruction": "总结", "input": "项目延期一周，原因是需求变更。", "output": "项目因需求变更延期一周。"}
+{"instruction": "分类", "input": "狗", "output": "动物"}
+{"instruction": "问候", "input": "", "output": "你好，很高兴见到你。"}
+{"instruction": "总结", "input": "会议讨论了预算、进度和风险。", "output": "会议主要讨论预算、进度和风险。"}
+{"instruction": "分类", "input": "苹果", "output": "水果"}
+{"instruction": "翻译", "input": "hello", "output": "你好"}
+{"instruction": "总结", "input": "报告指出销量下降，主要原因是价格过高。", "output": "报告指出因价格过高导致销量下降。"}
+{"instruction": "翻译", "input": "i love coffee", "output": "我爱喝咖啡"}
+{"instruction": "判断", "input": "一周有 7 天", "output": "正确"}
+{"instruction": "分类", "input": "西瓜", "output": "水果"}
+{"instruction": "分类", "input": "兔子", "output": "动物"}
+{"instruction": "分类", "input": "白菜", "output": "蔬菜"}
+{"instruction": "总结", "input": "项目延期一周，原因是需求变更。", "output": "项目因需求变更延期一周。"}
+{"instruction": "翻译", "input": "i love coffee", "output": "我爱喝咖啡"}
+{"instruction": "判断", "input": "糖是甜的", "output": "正确"}
+{"instruction": "分类", "input": "葡萄", "output": "水果"}
+{"instruction": "翻译", "input": "good night", "output": "晚安"}
+{"instruction": "总结", "input": "系统升级后响应时间减少了 30%。", "output": "系统升级后响应时间减少 30%。"}
+{"instruction": "总结", "input": "客户对产品质量满意，但对配送速度不满。", "output": "客户满意产品质量，不满配送速度。"}
+{"instruction": "问候", "input": "", "output": "你好，有什么可以帮你的吗？"}
+{"instruction": "问候", "input": "", "output": "你好，很高兴见到你。"}
+{"instruction": "问候", "input": "朋友", "output": "嗨，最近怎么样？"}
+{"instruction": "翻译", "input": "i like tea", "output": "我喜欢喝茶"}
+{"instruction": "分类", "input": "香蕉", "output": "水果"}
+{"instruction": "问候", "input": "", "output": "你好，有什么可以帮你的吗？"}
+{"instruction": "翻译", "input": "thank you", "output": "谢谢"}
+{"instruction": "判断", "input": "一年有 12 个月", "output": "正确"}
+{"instruction": "判断", "input": "水是红色的", "output": "错误"}
+{"instruction": "分类", "input": "吉他", "output": "乐器"}
+{"instruction": "问候", "input": "", "output": "你好，有什么可以帮你的吗？"}
+{"instruction": "分类", "input": "百合", "output": "花卉"}
+{"instruction": "问候", "input": "", "output": "你好，有什么可以帮你的吗？"}
+{"instruction": "总结", "input": "新方案成本更低，效果与旧方案相当。", "output": "新方案成本低且效果相当。"}
+{"instruction": "总结", "input": "用户反馈主要集中在登录慢。", "output": "用户主要反馈登录速度慢。"}
+{"instruction": "总结", "input": "项目延期一周，原因是需求变更。", "output": "项目因需求变更延期一周。"}
+{"instruction": "分类", "input": "向日葵", "output": "花卉"}
+{"instruction": "问候", "input": "老师", "output": "老师好。"}
+{"instruction": "问候", "input": "", "output": "你好，有什么可以帮你的吗？"}
+{"instruction": "分类", "input": "向日葵", "output": "花卉"}

@@ -101,7 +101,7 @@ def main():
         "deepseek-flash",
         model_provider="openai",
         api_key=api_key,
-        base_url="https://api.deepseek.com",
+        base_url="https://api.deepseek.com", 
     )
     rag_chain = build_rag_chain(retriever, model)
     answer = rag_chain.invoke(question)
